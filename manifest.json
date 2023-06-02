@@ -1,0 +1,27 @@
+{
+    "short_name": "Prueba1",
+    "name": "Createpage",
+    "icons":[
+        {
+            "src": "IMG/128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "IMG/256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "IMG/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url":"index.html",
+    "background_color": "#f9d627",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#f9d627",
+    "description": "Pagina de prueba"
+}
